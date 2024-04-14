@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * Realiza un programa en Java que, dado un día de la semana como un número entero, 
- * nos indique el día como texto. Haz dos versiones, una usando switch como expresión y otra como sentencia.
+ * nos indique el día como texto. Haz dos versiones, una usando switch como sentencia.
  */
 
 public class Ejercicio13 {
