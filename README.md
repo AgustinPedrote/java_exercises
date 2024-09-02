@@ -1,1 +1,1 @@
-# javaActivities
+# java_exercises
